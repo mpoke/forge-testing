@@ -1,7 +1,7 @@
 {
   "display": {
-    "name": "TestChain",
-    "description": "Something, something",
+    "name": "CosmoverseChain",
+    "description": "Make the Cosmos Hub the best place to launch a chain!",
     "links": {
       "logo": "https://example.com/myspace-logo.png",
       "discord": "https://discord.gg/myspace",
@@ -13,10 +13,10 @@
       "whitepaper": "https://myspace.network/whitepaper.pdf"
     },
     "widget": {
-      "title": "Create your own space on the blockchain",
-      "description": "Create your profile, share your thoughts, and connect with friends on the blockchain.",
-      "buttonText": "Create your space",
-      "buttonUrl": "https://myspace.network/create"
+      "title": "Cosmoverse",
+      "description": "Discover the Interchain",
+      "buttonText": "Cosmoverse",
+      "buttonUrl": "https://cosmoverse.org"
     }
   }
 }
